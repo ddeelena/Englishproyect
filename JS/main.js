@@ -36,5 +36,6 @@ imprimir();
 var nombres = ['vor','antonio','elena'];
 alert(nombres[0]);
 
+var x = 2
 
 
